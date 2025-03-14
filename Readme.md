@@ -1,4 +1,4 @@
-﻿# PROJET FINAL DEVOPS. 
+﻿# PROJET DEVOPS - Orchestration. 
 
 ## **1) Introduction**
 
